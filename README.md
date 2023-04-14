@@ -12,31 +12,3 @@ API calls using Redux Toolkit Query
 Icons using Hero Icons
 Navigation using React Router
 Integration with OpenAI for intelligent and engaging conversations
-Installation
-Clone the repository
-bash
-Copy code
-git clone https://github.com/yourusername/chatwizard.git
-Install dependencies for both frontend and backend
-bash
-Copy code
-cd chatwizard
-cd frontend && npm install
-cd ../backend && npm install
-Start the server
-bash
-Copy code
-cd backend && npm start
-Start the client
-bash
-Copy code
-cd frontend && npm start
-Visit http://localhost:3000 in your browser to start chatting with ChatWizard.
-Contributing
-We welcome contributions from the community! If you have any suggestions or issues, feel free to submit them through the GitHub repository.
-
-Credits
-This project was created by [your name] and is maintained by the [your organization]. Special thanks to [names of contributors].
-
-License
-This project is licensed under the [insert license here] license. See the LICENSE file for more details.
